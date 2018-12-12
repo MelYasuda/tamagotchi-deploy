@@ -1,0 +1,15 @@
+{
+  "main.js": "/tamagotchi-deploy/static/js/main.e4fc3b47.chunk.js",
+  "main.js.map": "/tamagotchi-deploy/static/js/main.e4fc3b47.chunk.js.map",
+  "static/css/1.3e2e366e.chunk.css": "/tamagotchi-deploy/static/css/1.3e2e366e.chunk.css",
+  "static/js/1.4a4d1fac.chunk.js": "/tamagotchi-deploy/static/js/1.4a4d1fac.chunk.js",
+  "static/js/1.4a4d1fac.chunk.js.map": "/tamagotchi-deploy/static/js/1.4a4d1fac.chunk.js.map",
+  "runtime~main.js": "/tamagotchi-deploy/static/js/runtime~main.76977068.js",
+  "runtime~main.js.map": "/tamagotchi-deploy/static/js/runtime~main.76977068.js.map",
+  "static/css/1.3e2e366e.chunk.css.map": "/tamagotchi-deploy/static/css/1.3e2e366e.chunk.css.map",
+  "static/media/logo.png": "/tamagotchi-deploy/static/media/logo.4241e9bd.png",
+  "static/media/tamashell.png": "/tamagotchi-deploy/static/media/tamashell.06753626.png",
+  "index.html": "/tamagotchi-deploy/index.html",
+  "precache-manifest.6a9488502c7372e1dca6ead44aa385a7.js": "/tamagotchi-deploy/precache-manifest.6a9488502c7372e1dca6ead44aa385a7.js",
+  "service-worker.js": "/tamagotchi-deploy/service-worker.js"
+}
